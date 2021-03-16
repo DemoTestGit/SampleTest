@@ -8,4 +8,4 @@ ${browser}  chrome
 *** Test Cases ***
 verify the Sample TC
 
-open browser  ${url}  ${browser}
+  open browser  ${url}  ${browser}
